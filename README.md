@@ -1,0 +1,2 @@
+# homeenergymanager
+homeenergymanager is a set of tools to manage peak power utilization and/or minimize costs under variable rate plans.  The goal is to gather cost data, along with current usage data and then use that data to control the loads like EVSE, HVAC, Freezers.  Someday I hope we have a single interface for the home to show and manage where the energy is going and how much it is costing us.  
